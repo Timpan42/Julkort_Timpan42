@@ -1,4 +1,5 @@
 # Julkort_Timpan42
+The 10 stepp plan 
 
 ## Steg 1:
 Skapa en flexbox som fungera 
