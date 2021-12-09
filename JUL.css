@@ -1,12 +1,19 @@
 html, body {
-  width: 100%;
   margin: 0;
   padding: 0;
+  height: 100%;
   background-color: rgb(197, 172, 172);
 }
 
-main {
-  width: 100%;
+body{
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.kan {
+  
+}
+
+main {
   background-color: rgb(169, 185, 233);
 
