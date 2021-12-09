@@ -1,17 +1,28 @@
 html, body {
-    width: 100%;
-    margin: 0;
+    max-width: 100%;
+    margin: auto;
     padding: 0;
+    align-items: center;
     background-color: rgb(197, 172, 172);
 }
 
 main {
-    width: 100%;
-    display: flex;
+    max-width: 50%;
+    margin: auto;
+    border: 100%;
     background-color: rgb(169, 185, 233);
-
+    color: white;
+    align-items: center;
+    position: center;
+    top: 0px;
+    box-shadow: 0rem 0rem 0.5rem #2e2e2e;
+    z-index: 1;
+    text-align: center;
 }
+
 header{
+    width: 100%;
+    border: 100%;
     text-align: center;
 }
 
