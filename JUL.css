@@ -8,12 +8,22 @@ html, body {
 body{
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
 }
-.kan {
-  
+.kort{
+  margin-top: auto;
+  padding: 1rem;
+  position: relative;
+
 }
-
-main {
-  background-color: rgb(169, 185, 233);
-
+.kort-content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
