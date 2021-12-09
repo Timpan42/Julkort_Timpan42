@@ -1,0 +1,17 @@
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(197, 172, 172);
+}
+
+main {
+    width: 100%;
+    display: flex;
+    background-color: rgb(169, 185, 233);
+
+}
+header{
+    text-align: center;
+}
+
