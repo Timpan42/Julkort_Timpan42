@@ -27,3 +27,15 @@ body{
   justify-content: center;
   align-items: center;
 }
+
+.kort > img {
+  object-fit: cover;
+  height: 50vh;
+}
+h1 {
+  color: antiquewhite;
+}
+
+footer{
+  margin-top: auto;
+}
